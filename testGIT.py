@@ -1,1 +1,2 @@
-print('try to used GIT my own')
+lst: list[int] = [12]
+print(lst)
