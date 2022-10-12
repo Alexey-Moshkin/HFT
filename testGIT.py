@@ -1,2 +1,1 @@
-lst: list[int] = [12]
-print(lst)
+print('the best program')
